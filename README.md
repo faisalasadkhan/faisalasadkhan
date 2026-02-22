@@ -16,8 +16,8 @@ I enjoy building systems that connect devices, process data in the cloud, and ge
 
 ## 🛠 Technical Skills
 
-**Programming:** Python, SQL , C++, Java, HTML, Javascript, CSS, Python( Pandas, Numpy)
-**Cloud:** AWS, Microsoft Azure  Pivot tables
+**Programming:** Python, SQL , C++, Java, HTML, Javascript, CSS, Python( Pandas, NumPy)
+**Cloud:** AWS,AWS IoT Core, AWS EC2, AWS Lambda, AWS S3, AWS Dynamo DB, Microsoft Azure Azure IoT Hub, Azure Blob storage  Pivot tables, Cloud functions, MQTT cloud integration, Websockets
 **Databases:** Oracle, MySQL  PostgreSQL 
 **Data & Analytics:** Tableau  
 **Concepts:** IoT Architecture, API Integration, Cloud Deployment  
