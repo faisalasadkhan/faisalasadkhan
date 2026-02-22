@@ -9,8 +9,13 @@
 
 ## 👨‍💻 About Me
 
-I am a BBAICT graduate with strong interest in IoT systems, cloud infrastructure, and data-driven solutions.  
-I enjoy building systems that connect devices, process data in the cloud, and generate actionable insights.
+I am a BBAICT graduate with a strong foundation in business and information technology, supported by an Advanced Diploma in Computer Programming (Java & C++) and Oracle 8i certification.
+
+My technical background includes C++, Java, SQL, database design, and data analytics. Professionally, I have worked as a Data Analyst and CRM Coordinator at Bell, where I utilized SQL, Tableau, and CRM systems to analyze data, optimize reporting processes, and support data-driven decision-making.
+
+I am particularly interested in IoT systems, cloud infrastructure, and scalable data-driven solutions. I enjoy building modular applications that connect devices, manage data efficiently, and transform raw information into actionable insights.
+
+Currently seeking opportunities to grow in IoT, cloud, and backend-focused roles where I can apply my programming and database expertise while expanding hands-on experience in modern system design.
 
 ---
 
