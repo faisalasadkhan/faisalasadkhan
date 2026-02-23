@@ -1,7 +1,7 @@
 
 # Hi, I'm Faisal 👋
 
-🎓 BBAICT Graduate  
+🎓 BBAICT Graduate  BSc Honours 
 🔌 IoT & Cloud Developer  
 ☁️ AWS | Azure | Python | SQL | Oracle | Tableau  
 
