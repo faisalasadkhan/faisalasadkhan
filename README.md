@@ -42,3 +42,4 @@ Currently seeking opportunities to grow in IoT, cloud, and backend-focused roles
 
 - LinkedIn: https://www.Linkedln.com/in/Faisal-asad-khan-05965679/
 - Email: faisalasadkhan6@gmail.com
+https://fk1979.weebly.com
